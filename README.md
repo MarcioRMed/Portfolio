@@ -3,3 +3,10 @@
 
  ## Tarefas
  O controle das tarefas desse projeto será realizado no Github
+
+## Icones
+
+:package: nova funcionalidades
+:up:atualização
+:beatle:correção de bug
+:checkred_flag:release
