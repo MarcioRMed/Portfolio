@@ -10,5 +10,5 @@
 
 - :package: nova funcionalidades
 - :up: atualização
-- :beetle: correção de bug
+- :heavy_check_mark: correção de bug
 - :checkered_flag: release
