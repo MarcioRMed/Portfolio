@@ -7,6 +7,6 @@
 ## Icones
 
 :package: nova funcionalidades
-:up:atualização
-:beatle:correção de bug
-:checkred_flag:release
+:up: atualização
+:beatle: correção de bug
+:checkered_flag: release
