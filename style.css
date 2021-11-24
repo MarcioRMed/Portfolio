@@ -364,7 +364,7 @@
 
 .conhecimento-img-wrapper{
     grid-column: 7 /11;
-    grid-row: 2 / 6;
+    grid-row: 2 / 5;
     width: 89%;
     
       
@@ -373,10 +373,9 @@
     justify-content:center;
    
     background-color: rgba(0, 0, 0, 1);
-    border-radius: 5%;
+    border-radius: 100%;
 
-    margin:1rem 1rem ;
-        
+    margin:1rem 1rem ;        
 
 }
 
@@ -385,7 +384,7 @@
     width: 89%;
             
     opacity: 25%;
-    border-radius: 5%;     
+    border-radius: 100%;     
     
     margin:1rem;
 }
