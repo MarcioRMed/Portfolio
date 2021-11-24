@@ -204,11 +204,14 @@
     
     background-color:rgb(167, 167, 167);
     
-
     position: fixed;
     top: 0;
     right: -20rem;
+    z-index: 99; 
+
     transition:all 1s;
+
+    
 }
 
 .show-menu .sidebar{
@@ -334,7 +337,7 @@
     font-family: var(--font-primary);
     font-size: 3rem;
     color: #4b4b4b;
-    border-bottom: solid 3px #6a3093;
+    border-bottom: solid 5px #6a3093;
     margin-bottom: 1.5rem;
 
 }
@@ -409,8 +412,6 @@
     background-color: black;
     border-radius: .5rem;
 
-
-
 }
 
 .card-img-wrapper img{
@@ -450,7 +451,7 @@
 .card-info h3{
     font-family: var(--font-action);
     font-weight: bold;
-    color: #9067be;
+    color: #9d77c9;
     margin-bottom: 1.5rem;
 }
 
