@@ -531,6 +531,7 @@
     display:flex;
     box-shadow: 1rem 1rem 4rem #6f319b91;  
     /* box-shadow: 0 2rem 5rem rgba(0, 0, 0, .4);      */
+    
 }
 
 .contato-left{    
@@ -545,10 +546,11 @@
     width: 65%;
     background-color: #eee;
     padding: 1rem 3rem 3rem 3rem;    
+    
 }
 
 .sessao-contato h1{
-    width:100%;
+    width:40%;
     font-family: var(--font-primary);
     text-align: center;
     color: #272727;
@@ -591,7 +593,7 @@
 .field-label{
     position: absolute;
     left:0;
-    top: 2rem;
+    /* top: 2rem; */
     font-size: 1.2rem;
     font-family: var(--font-secundary);
     text-transform: uppercase;
@@ -599,6 +601,7 @@
     
     
 }
+
 
 .field:focus ~ label{
     top:0;
