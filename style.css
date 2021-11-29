@@ -376,7 +376,7 @@
     align-items: center;
     justify-content:center;
    
-    background-color: rgba(0, 0, 0, 1);
+    background-color: rgba(0, 0, 0, .8);
     border-radius: 5rem;
 
     margin:1rem 1rem ;        
@@ -535,11 +535,13 @@
 }
 
 .contato-left{    
-    width:35%; 
+    /* width:35%;  */
+    width:35vh ;
           
-    background: linear-gradient(rgba(15,15,15, 0.6), rgba(22,22,22,0.9)),
-     url(/imagens/contato.jpg); 
-    background-size:cover;
+    background: linear-gradient(rgba(15,15,15, 0.7), rgba(255, 255, 255, 1)),
+     url(/imagens/contato.jpg)  ; 
+    
+    background-size:contain;
 }
 
 .contato-right{
@@ -605,7 +607,7 @@
 
 .field:focus ~ label{
     top:0;
-    font-size:1rem;
+    font-size:0.8rem;
 }
 
 .field:focus {     
