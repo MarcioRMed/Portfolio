@@ -211,9 +211,8 @@ html{
     position: fixed;
     top: 0;
     right: -20rem;
-    /* z-index: 99; */
-    z-index: 150; 
-
+    z-index: 99;
+    
     transition:all 1s;
 
     
