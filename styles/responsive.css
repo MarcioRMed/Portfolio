@@ -67,7 +67,11 @@
 /* ------------------------------------------ */
 
 @media screen and (max-width: 560px) {
-   .container{
+   body{
+       background-color:black;
+   }
+   
+    .container{
        width: 100%;
    }
    
