@@ -67,12 +67,21 @@
 /* ------------------------560------------------ */
 
 @media screen and (max-width: 720px) {
+    html{
+        margin:auto;
+
+        /* max-width:1200px; */
+    }
+
+
    body{
        background-color:black;
+       /* margin:0; */
+       margin:auto;
    }
    
     .container{
-       width: 100%;
+       /* width: 100%; */
    }
    
    
