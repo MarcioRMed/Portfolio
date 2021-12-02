@@ -4,6 +4,10 @@
  
  Conforme o desenvolvimento do projeto for acontecendo vou melhorando o Readme. 
 
+ O site foi feito todo em uma tela 32 polegas. - no momento estou fazendo os ajuste de resposividade.
+
+ 
+
  ## Tarefas
  
  O controle das tarefas desse projeto será realizado no Github e Notion Kaban. 
@@ -18,7 +22,7 @@ As tecnológias usadas nesse projeto:
 
 - Menu hamburguer
 - Área de Conhecimentos
-- Área de Projetos 
+- Área de Projetos - Usei CSS grid layout
 - Formulário de contato
 - Implementação de JS em Orçamento 
 - Responsividade
