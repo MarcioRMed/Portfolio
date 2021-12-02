@@ -29,6 +29,8 @@
     right: 1.5rem;
 }
 
+
+}
 /* ----------------------------------------------- */
 
 /* tablet */
@@ -63,14 +65,14 @@
 /* ------------------------------------------ */
 
 @media screen and (max-width: 360px) {
-
-    .banner{
-        position: absolute;
-        top: 15%;
-        left: 2%;
-    }    
+   .banner{
+       top:25% ;
+       left:2%;
+   }
     
     .banner h1{
+        
+        left:1%;
         font-size: 1.5rem;
         line-height: 1rem;
         margin-bottom: 1.5rem;
@@ -120,4 +122,3 @@
 }
 
     
-}
