@@ -358,7 +358,7 @@ body{
 .sessao-header h1{
     font-family: var(--font-primary);
     font-size: 3rem;
-    color: #4b4b4b;
+    color: white;
     border-bottom: solid 5px #6a3093;
     margin-bottom: 1.5rem;
 
@@ -404,18 +404,19 @@ body{
     align-items: center;
     justify-content:center;
    
-    background-color: rgba(0, 0, 0, .8);
+    background-color: rgba(0, 0, 0, 1);
     border-radius: 5rem;
 
     margin:1rem 1rem ;        
-
+    
 }
 
 .conhecimento-img-wrapper img{
+    
     object-fit: cover;
     width: 89%;
             
-    opacity: 25%;
+    opacity: 45%;
     border-radius: 5rem;     
     
     margin:1rem;
