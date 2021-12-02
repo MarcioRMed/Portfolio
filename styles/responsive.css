@@ -65,7 +65,12 @@
 /* ------------------------------------------ */
 
 @media screen and (max-width: 360px) {
-   .banner{
+   .container{
+       width: 130%;
+   }
+   
+   
+    .banner{
        top:25% ;
        left:2%;
    }
@@ -95,11 +100,14 @@
     
     .hamburguer{
         top:1rem;
-        right: 10rem;
+        right: 9rem;
+
+        width: 4rem;
+        height: 4rem;
     }
     
     .sidebar{
-        width: 100%;
+        /* width: 100%; */
         height: 100vh;
         
     }
