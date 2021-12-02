@@ -1,22 +1,29 @@
 # Portfolio
  
- Criação de portfolio (experimental) - 
+ Criação de portfolio (experimental) 
  
- Conforme o desenvolvimento for acontecendo vou melhorando o Readme. 
+ Conforme o desenvolvimento do projeto for acontecendo vou melhorando o Readme. 
 
  ## Tarefas
  
- O controle das tarefas desse projeto será realizado no Github
+ O controle das tarefas desse projeto será realizado no Github e Notion Kaban. 
 
- O Portfolio terá essas funções:
+As tecnológias usadas nesse projeto:
+
+- Html
+- CSS
+- JavaScript
+
+ O Portfolio terá essas funcionalidades:
 
 - Menu hamburguer
-- Area de Conhecimentos
-- Area de Projetos 
+- Área de Conhecimentos
+- Área de Projetos 
 - Formulário de contato
 - Implementação de JS em Orçamento 
 - Responsividade
 
+- pretendo por mais funções conforme a necessidade
 
 
 ## Icones
