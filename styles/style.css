@@ -20,6 +20,9 @@ html{
     scroll-behavior: smooth;
 }
 
+body{
+    background-color:black;
+}
  
 
 .hamburguer{
@@ -564,7 +567,7 @@ html{
     width:35vh ;
           
     background: linear-gradient(rgba(15,15,15, 0.7), rgba(255, 255, 255, 1)),
-     url(imagens/contato.jpg)  ; 
+     url("/imagens/contato.jpg")  ; 
     
     background-size:contain;
 }
@@ -679,7 +682,7 @@ html{
     height: 100vh;    
         
      background: linear-gradient(rgba(15,15,15, 0.7), rgba(15,15,15, 0.7)),
-     url(./imagens/bg-orcamento.jpg)  ; 
+     url("/imagens/bg-orcamento.jpg")  ; 
      
     background-size: cover;
     /* object-fit: cover; */
