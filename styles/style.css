@@ -752,50 +752,10 @@ body{
 
 }
 
-/* ------------------------------------------------------------- */
-.checkmark{
-    position: absolute;
-    top: 0;
-    left:0;
-    height: 25px;
-    width:25px;
-    background: #eee;
-    border-radius:2px;
-
-
-}
-
-.container:hover input ~ .checkmark{
-    background-color: #ccc;
-}
-
-.container input:checked ~ .checkmark{
-    background-color: #ff0a54;
-}
-
-.container .checkmark::after{
-    content: "";
-    position: absolute;
-    display: none;
-    left: 9px;
-    top: 5px;
-    width: 5px;
-    height: 10px;
-    border: solid white;
-    border-width: 0 3px 3px 0;
-    transform:rotate(45deg)
-
-}
-
-.container input:checked ~ .checkmark::after{
-    display: block;
-
-}
 
 
 
 
-/* ------------------------------------------------------------- */
 .btn-orcamento{
     text-transform:uppercase;
     padding: 1rem;

@@ -86,14 +86,14 @@
    
    
     .banner{
-       top:25% ;
+       top:35% ;
        left:2%;
    }
     
     .banner h1{
         
         left:1%;
-        font-size: 1.5rem;
+        font-size: 1.8rem;
         line-height: 1rem;
         margin-bottom: 1.5rem;
     }
@@ -156,6 +156,9 @@
         margin-bottom: 2rem;
     }
 
+    .card{
+        margin-bottom: 2rem;
+    }
 
 
 
@@ -235,7 +238,7 @@
 }
 
 .contato-wrapper {
-    width: 90%;
+    width: 100%;
     
    
 }
@@ -264,5 +267,20 @@
 }
 
 
+footer{
+    height: 9rem;
+}
+
+.footer-content{    
+    flex-direction: column-reverse;  
+    height:6rem ;      
+}
+
+.footer-content p {        
+    font-size: .8rem;
+    margin-top: 1rem;
+    
+    
+}
 
 }
