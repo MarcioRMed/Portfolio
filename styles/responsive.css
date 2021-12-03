@@ -172,8 +172,6 @@
     
 }
 
-
-
 .sessao-header h1 {
     font-family: var(--font-primary);
     font-size: 1.5rem;
@@ -227,25 +225,43 @@
     
 }
 
+.contato-left {    
+    width: 0%;    
+}
 
 .contato-right {
     margin: auto;
     
 }
 
-
-
-
 .contato-wrapper {
     width: 90%;
-    display: flex;
-    align-items: center;
-    justify-content: center;
-    box-shadow: 1rem 1rem 4rem #6f319b91;
-    margin: 10%;
+    
    
 }
 
+.sessao-orcamento h1 {
+    /* position: absolute; */
+    top: -1.5rem;
+    left: -3rem;
+    font-size: 1.5rem;
+
+}
+
+.orcamento-wrapper {
+    width:85%;
+
+}
+
+.orcamento-wrapper label {
+    font-size: 1rem;
+
+}
+
+.social-list{
+    margin:auto;
+
+}
 
 
 
