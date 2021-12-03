@@ -2,10 +2,14 @@
  
  Criação de portfolio (experimental) 
  
+ ## Status
+fazendo  ajuste de responsividade.
+
+
  Conforme o desenvolvimento do projeto for acontecendo vou melhorando o Readme. 
 
- O site foi feito todo em uma tela 32 polegas. - no momento estou fazendo os ajuste de resposividade.
 
+ O site foi feito todo em uma tela 32 polegas. - 
  
 
  ## Tarefas
@@ -21,6 +25,7 @@ As tecnológias usadas nesse projeto:
  O Portfolio terá essas funcionalidades:
 
 - Menu hamburguer
+- Saiba mais - 
 - Área de Conhecimentos
 - Área de Projetos - Usei CSS grid layout
 - Formulário de contato
