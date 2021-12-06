@@ -228,6 +228,15 @@
     
 }
 
+.sessao-contato{
+    display: flex;
+        flex-direction: column;
+        align-items: center;
+        
+        justify-content: center;
+        margin-bottom: 4rem;
+}
+
 .contato-left {    
     width: 0%;    
 }
@@ -252,17 +261,27 @@
 }
 
 .orcamento-wrapper {
+    display: flex;
+    align-items: center;
+    justify-content:center;
     width:85%;
+    height:95%;
 
 }
 
 .orcamento-wrapper label {
-    font-size: 1rem;
+    font-size: 1.8rem;
+
+}
+
+.sessao-orcamento input[type="number"] {
+width:2.5rem;
+
 
 }
 
 #qtde{
-    font-size: 2rem;
+    font-size: 1.8rem;
 }
 
 #js{
