@@ -213,10 +213,9 @@
 .sessao-contato{
     display: flex;
         flex-direction: column;
-        align-items: center;
-        
+        align-items: center;        
         justify-content: center;
-        margin-bottom: 3rem;
+        
 }
 
 .contato-left {    
@@ -224,7 +223,7 @@
 }
 
 .contato-right {
-    margin: auto;
+    margin:2rem;
     
 }
 
@@ -234,11 +233,15 @@
    
 }
 
+.sessao-orcamento{
+    height:auto;
+}
+
 .sessao-orcamento form {
     margin: 0.5rem;
     display: flex;
     flex-direction: column;
-    margin:auto
+    margin:1.8rem;
     
 }
 
@@ -255,13 +258,15 @@
     align-items: center;
     justify-content:center;
     width:95%;
-    
+    margin-top:5rem;
+    margin-bottom: 5rem;
 
 
 }
 
 .orcamento-wrapper label {
     font-size: 1.7rem;
+    margin:auto;
 
 }
 
@@ -280,10 +285,13 @@ width:2.5rem;
 
 #qtde{
     font-size: 1.8rem;
+    margin:auto;
+    
 }
 
 #js{
     font-size: 2rem;
+    margin:auto;
 }
 .social-list{
     margin:auto;
@@ -292,7 +300,7 @@ width:2.5rem;
 
 
 footer{
-    margin-top: 5rem;
+    margin-top: 0rem;
    
 }
 
