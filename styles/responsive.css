@@ -122,7 +122,7 @@
     }
     
     .sidebar{
-        /* width: 100%; */
+        width: 20rem;
         /* height: 100vh; */
         
      } 
@@ -144,9 +144,7 @@
         width: 3rem;
         height: 3rem;
     } 
-    
-
-    
+        
     .projetos {
         display: flex;
         flex-direction: column;
@@ -159,14 +157,6 @@
     .card{
         margin-bottom: 2rem;
     }
-
-
-
-
-
-
-
-/* ------------------------------------ */
 
 .conhecimentos{
     display: flex;
@@ -211,20 +201,12 @@
 
 }
 
-
 .conhecimento-img-wrapper{
    
     width: 1px;
     height: 1px; 
     object-fit: cover;   
     opacity: 0;
-
-      
-    
-   
-    
-    
-
     
 }
 
@@ -234,7 +216,7 @@
         align-items: center;
         
         justify-content: center;
-        margin-bottom: 4rem;
+        margin-bottom: 3rem;
 }
 
 .contato-left {    
@@ -252,9 +234,17 @@
    
 }
 
+.sessao-orcamento form {
+    margin: 0.5rem;
+    display: flex;
+    flex-direction: column;
+    margin:auto
+    
+}
+
 .sessao-orcamento h1 {
     /* position: absolute; */
-    top: -1.5rem;
+    top: -2.5rem;
     left: -3rem;
     font-size: 1.5rem;
 
@@ -264,15 +254,23 @@
     display: flex;
     align-items: center;
     justify-content:center;
-    width:85%;
-    height:95%;
+    width:95%;
+    
+
 
 }
 
 .orcamento-wrapper label {
-    font-size: 1.8rem;
+    font-size: 1.7rem;
 
 }
+
+.btn-orcamento{
+    
+margin:1rem;
+}
+
+
 
 .sessao-orcamento input[type="number"] {
 width:2.5rem;
@@ -294,7 +292,8 @@ width:2.5rem;
 
 
 footer{
-    height: 9rem;
+    margin-top: 5rem;
+   
 }
 
 .footer-content{    
@@ -303,7 +302,7 @@ footer{
 }
 
 .footer-content p {        
-    font-size: .8rem;
+    font-size: .9rem;
     margin-top: 1rem;
     
     
