@@ -64,7 +64,14 @@
 
 } */
 
-/* ------------------------560--720---------------- */
+/* ----------------------------------------
+@media(max-width:768px){
+@media(max-width:630px){
+@media(max-width:540px){
+@media(max-width:320px){ 
+*/
+
+
 
 @media screen and (max-width: 768px) {
     html{
@@ -121,6 +128,11 @@
         height: 3rem;
     }
     
+.show-menu #line3{
+    transform: rotate(-45deg) translate(0.7rem, -0.8rem);
+
+}
+
     .sidebar{
         width: 20rem;
         /* height: 100vh; */
